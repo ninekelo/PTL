@@ -13,3 +13,5 @@
 2.5V - Добавили тотемы для игроков: "changing_spring, ewolker, makkenzy, thesmile0"
 
 2.8V - Добавили тотемы для игроков: "8bllll_jinn8, k0tzillaa"
+
+2.9V - Добавили тотемы для игроков: "melissa303, vie_win, shadowlotos", изменили описание текстур-пака
